@@ -1,0 +1,44 @@
+button {
+  border: 1px solid transparent;
+  cursor: pointer;
+  text-transform: uppercase;
+  background: #FF3D00;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  border-radius: 35px;
+  padding: 18px 55px;
+  margin-left: 1px;
+  margin-top: 3px;
+  transition: .4s;
+}
+
+button:hover {
+  background-color: orange;
+}
+
+.button--preview { 
+  padding: 18px 53px 18px 54px;
+  margin-top: 43;
+  margin-bottom: 223;
+  text-align: center;
+  margin-top: 0;
+}
+
+.button--border {
+  background: transparent;
+  border: 2px solid #FF3D00;;
+  color: #FF3D00;
+  padding: 18px 54px;
+  margin-top: 2px;
+  margin-left: 1px;
+}
+
+.button--border:hover {
+  background-color: rgb(255, 247, 0);
+}
+
+.button--about { 
+  padding: 18px 40px;
+  margin-left: -1px;
+}

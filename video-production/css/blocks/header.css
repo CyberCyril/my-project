@@ -1,0 +1,20 @@
+.header {
+  min-height: 129px;
+  margin-top: 25px;
+  margin-bottom: 78px;
+}
+
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__col {
+  display: flex;
+  align-items: center;
+}
+
+.header__col--align--right {
+  justify-content: flex-end;
+}
