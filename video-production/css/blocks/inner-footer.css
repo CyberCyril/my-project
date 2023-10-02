@@ -1,0 +1,30 @@
+.inner-footer {
+  height: 132px;
+  margin-top: auto;
+}
+
+.inner-footer .container {
+  border-top: none;
+}
+
+.inner-footer .logo__icon {
+  margin-top: 32px;
+  margin-left: -1px;
+}
+.inner-footer .menu {
+  margin-bottom: -40px;
+}
+
+.inner-footer .socials {
+  margin-top: 37px;
+  margin-right: 73px;
+}
+
+.inner-footer .contacts__free-call {
+  margin-top: 45px;
+  margin-right: 2px;
+}
+
+.inner-footer .contacts__tel {
+  margin-right: 1px;
+}
