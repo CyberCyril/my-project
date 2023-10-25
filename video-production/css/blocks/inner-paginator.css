@@ -1,8 +1,0 @@
-.inner-paginator {
-  margin-left: 30px;
-}
-
-.inner-paginator .paginator__link:hover {
-  color: #fff;
-  transition: .4s;
-}
